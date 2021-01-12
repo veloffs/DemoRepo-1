@@ -1,0 +1,9 @@
+By the name of my file, my name is Patrick McCabe
+
+I am a Senior CS Major with minors in Data Science and History
+
+I am the President of our Cyber Security Club and Captain of our Cyber Defense teams
+
+Outside of school I work for IT Service Desk and love to watch baseball in my free time
+
+Website: https://pmccabe5.github.io/HW0/
